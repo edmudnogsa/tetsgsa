@@ -1,0 +1,131 @@
+ .u-section-1 {
+  min-height: 311px;
+}
+
+.u-section-1 .u-group-1 {
+  width: calc(((100% - 1140px) / 2) + 128px);
+  min-height: 312px;
+  margin: 0 auto 0 0;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 30px;
+  height: 34px;
+  margin: 0 auto 0 18px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: OpenSansCondensed-Bold;
+  font-size: 0.5rem;
+  margin: -32px auto 0 140px;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: OpenSansCondensed-Bold;
+  text-transform: uppercase;
+  background-image: none;
+  font-size: 0.75rem;
+  margin: 24px 21px 0 25px;
+}
+
+.u-section-1 .u-text-3 {
+  font-family: OpenSansCondensed-Bold;
+  text-transform: uppercase;
+  font-size: 0.625rem;
+  margin: 23px auto 0 24px;
+}
+
+.u-section-1 .u-text-4 {
+  font-family: OpenSansCondensed-Bold;
+  text-transform: uppercase;
+  font-size: 0.625rem;
+  margin: -18px auto 0 127px;
+}
+
+.u-section-1 .u-shape-1 {
+  width: 74px;
+  height: 52px;
+  background-image: none;
+  margin: 6px auto 0 24px;
+}
+
+.u-section-1 .u-shape-2 {
+  width: 74px;
+  height: 52px;
+  background-image: none;
+  margin: -52px auto 0 115px;
+}
+
+.u-section-1 .u-text-5 {
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: 1rem;
+  margin: 2px auto 0 18px;
+}
+
+.u-section-1 .u-text-6 {
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: 0.8125rem;
+  margin: 11px auto 0 18px;
+}
+
+.u-section-1 .u-text-7 {
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: 0.6875rem;
+  margin: 8px 0 0 4px;
+}
+
+.u-section-1 .u-text-8 {
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: 0.5rem;
+  margin: 3px auto 0 50px;
+}
+
+.u-section-1 .u-text-9 {
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: 0.5rem;
+  margin: 7px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-group-1 {
+    width: calc(((100% - 940px) / 2) + 128px);
+  }
+
+  .u-section-1 .u-shape-2 {
+    margin-left: 54px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-group-1 {
+    width: calc(((100% - 720px) / 2) + 128px);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-group-1 {
+    width: calc(((100% - 540px) / 2) + 128px);
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-group-1 {
+    width: calc(((100% - 340px) / 2) + 128px);
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 500px;
+}@font-face {
+  font-family: 'OpenSansCondensed-Bold';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/OpenSansCondensed-Bold.ttf);
+}
