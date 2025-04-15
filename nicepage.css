@@ -5556,7 +5556,7 @@ a {
   box-sizing: border-box;
 }
 html {
-  height: 100%;
+  height: 312px;
   overflow-y: auto;
   overflow-x: hidden;
 }
